@@ -4,3 +4,5 @@ Privetik
 line from user2
 
 critical bug fixed
+
+new line from user2 - about rebase
