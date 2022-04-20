@@ -2,9 +2,7 @@ Hello world!
 Privetik Lizonka
 GoodBye
 Hello from user1
-
 Line from user2
-
 Line from user1
-
 some new feature
+line from user1 - lesson about rebase
