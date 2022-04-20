@@ -6,3 +6,4 @@ Line from user2
 Line from user1
 some new feature
 line from user1 - lesson about rebase
+new line from user1 - lesson about rebase
