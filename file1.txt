@@ -3,4 +3,6 @@ Privetik Lizonka
 GoodBye
 Hello from user1
 
+Line from user2
+
 Line from user1
